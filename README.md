@@ -2,7 +2,7 @@
 
 EMR Instance Management
 
-## How it works
+## Scheme
 ### Models
 #### 1. TaskQueue
 #### 2. Team
