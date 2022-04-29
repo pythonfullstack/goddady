@@ -1,0 +1,19 @@
+[run]
+omit =
+    */env/*
+    */management/*
+    ./scripts/*
+    */migrations/*
+    */tests/*
+    */tests.py
+    */apps.py
+    */integration_tests/*
+    */gargoyle/*
+    */fabfile.py
+    */wsgi.py
+    *site-packages*
+concurrency = multiprocessing
+parallel = true
+
+[report]
+precision = 2
